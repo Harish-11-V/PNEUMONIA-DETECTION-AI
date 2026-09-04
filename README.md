@@ -1,7 +1,3 @@
-Yes bro — I understand the style you want now. You want the **pneumonia project README to look like a serious research/project repository**, with emoji section icons, badges, architecture diagrams, development phases, repository structure, results, etc., similar to your HyperLoop README.
-
-Here is a complete version you can directly use as `README.md`.
-
 # 🫁 PneumoViT AI
 
 **Active Learning for Pneumonia Detection with Vision Transformers and Bayesian Uncertainty Estimation**
